@@ -30,9 +30,7 @@ Repeated blocks of:
 - Concatenate with corresponding encoder output (skip connection)
 - Two `Conv2D` layers (3×3 kernel, ReLU)
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/6eb3dad9-863a-4e0c-a8db-607f2022d75d)" alt="U-Net Architecture" width="600"/>
-</p>
+![UNet Architecture](https://github.com/user-attachments/assets/6eb3dad9-863a-4e0c-a8db-607f2022d75d)
 ---
 
 ## 🏷️ Naming Conventions
